@@ -1,0 +1,79 @@
+[
+  {
+    "group": "brain",
+    "title": "Binding Visual Features Point by Point",
+    "authors": "U. Haputhanthri, D. Campbell, R. Assouel, J. D. Cohen, T. Webb",
+    "venue": "NeurIPS 2026 · Main Track",
+    "url": "https://drive.google.com/file/d/1XcKZUTb9YCFaT_SlNtK0ScjZmYTj1VQV/view"
+  },
+  {
+    "group": "brain",
+    "title": "Attention Alignment Between Humans and Vision-Language Models",
+    "authors": "I. R. Christian, U. Haputhanthri, D. Campbell, S. Nastase, T. Webb, M. S. A. Graziano",
+    "venue": "NeurIPS 2026 · Main Track",
+    "url": "https://arxiv.org/pdf/2606.17410"
+  },
+  {
+    "group": "brain",
+    "title": "Why do recurrent neural networks suddenly learn? Bifurcation mechanisms in neuro-inspired short-term memory tasks",
+    "authors": "U. Haputhanthri*, L. Storan*, Y. Jiang*, A. Shai, H. Akengin, M. Schnitzer†, F. Dinc†, H. Tanaka†",
+    "venue": "Mechanistic Interpretability Workshop, ICML 2024",
+    "url": "https://drive.google.com/file/d/1ynRF0O1B3yo_qaqsqUc5u1gdG8Zm69oY/view"
+  },
+  {
+    "group": "brain",
+    "title": "Enhanced associative memory in temporally consistent recurrent neural networks",
+    "authors": "U. Haputhanthri*, L. Storan*, A. Shai*, S. Ganguli, M. Schnitzer, H. Tanaka†, F. Dinc†",
+    "venue": "AMHN Workshop, NeurIPS 2023",
+    "url": "https://drive.google.com/file/d/1f4FLu8wt5bn9WmoDd_5Nbe4-Pbg5efec/view"
+  },
+  {
+    "group": "brain",
+    "title": "Understanding and controlling the geometry of memory organization in RNNs",
+    "authors": "U. Haputhanthri*, L. Storan*, Y. Jiang*, T. Raheja, A. Shai, O. Akengin, N. Miolane, M. Schnitzer, F. Dinc†, H. Tanaka†",
+    "venue": "Preprint · 2025",
+    "url": "https://arxiv.org/pdf/2502.07256"
+  },
+  {
+    "group": "microscopy",
+    "title": "Towards Ultrafast Quantitative Phase Imaging via Differentiable Microscopy",
+    "authors": "U. Haputhanthri, K. Herath, R. Hettiarachchi, H. Kariyawasam, A. Ahmad, B. S. Ahluwalia, C. Edussooriya, D. N. Wadduwage",
+    "venue": "Biomedical Optics Express · 2023",
+    "url": "https://drive.google.com/file/d/15-fq4s3Uc3px4dyPQwdr5WO8As3qmomQ/view"
+  },
+  {
+    "group": "microscopy",
+    "title": "Deep Optical Coding Design in Computational Imaging",
+    "authors": "H. Arguello, J. Bacca, H. Kariyawasam, E. Vargas, M. Marquez, H. Garcia, R. Hettiarachchi, K. Herath, U. Haputhanthri, B. S. Ahluwalia, P. So, D. N. Wadduwage, C. Edussooriya",
+    "venue": "IEEE Signal Processing Magazine · 2022",
+    "url": "https://drive.google.com/file/d/1uGa6KzZgrOOGpgf1Ke66KQDH5AzN_6m6/view"
+  },
+  {
+    "group": "other",
+    "title": "Towards Accurate Cross-Domain In-Bed Human Pose Estimation",
+    "authors": "M. Afham*, U. Haputhanthri*, J. Pradeepkumar*, M. Anandakumar, A. De Silva, C. Edussooriya",
+    "venue": "ICASSP · 2022",
+    "url": "https://drive.google.com/file/d/1SocjsCTEynnTYZ-wxJLA4Xux7Gi0KTKA/view"
+  },
+  {
+    "group": "other",
+    "title": "Topologically Optimal Design and Failure Prediction using Conditional Generative Adversarial Networks",
+    "authors": "S. Herath, U. Haputhanthri",
+    "venue": "International Journal for Numerical Methods in Engineering · 2021",
+    "url": "https://drive.google.com/file/d/1G-M9lpZUkkOaCMp0GBZrfmS65T1xD6WH/view"
+  },
+  {
+    "group": "other",
+    "title": "A Novel Transfer Learning-Based Approach for Screening Pre-existing Heart Diseases Using Synchronized ECG and PCG Signals",
+    "authors": "R. Hettiarachchi, U. Haputhanthri, K. Herath, H. Kariyawasam, S. Munasinghe, K. Wickramasinghe, D. Samarasinghe, A. De Silva, C. Edussooriya",
+    "venue": "ISCAS · 2021",
+    "url": "https://drive.google.com/file/d/1lAwF7Dm_KZdagdzo9R7WN1PdUTR4jMaO/view"
+  },
+  {
+    "group": "other",
+    "title": "Nonlinear Multiscale Modelling and Design using Gaussian Processes",
+    "authors": "S. Herath, U. Haputhanthri",
+    "venue": "Journal of Applied and Computational Mechanics · 2021",
+    "url": "https://drive.google.com/file/d/1lYjQi7jTYjrT-2TYXUEoA4nsrcVFIQuO/view"
+  }
+]
